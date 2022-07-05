@@ -1,0 +1,86 @@
+/* #logoName{
+    padding-left: 3rem;
+    padding-right: 20rem;
+  }
+  /* .high-max{       da musst du die Bilder anpassen
+    height: 100px;
+  } */ 
+  
+.test{
+  color: red;
+}
+
+  /* #webgl{
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+  } */
+
+  #x {
+    margin-top: -51px;
+    margin-bottom: -51px;
+  } 
+
+  /* pre {
+    margin-bottom: -21px;
+  } */
+  .l,a{
+    text-decoration: underline;
+    
+  }
+  a:hover{
+    color: #212529;
+  }
+  
+  #ersterLink{
+    padding-left: 23rem;
+  }
+
+  .abstandOben{
+    padding-top: 2rem;
+  }
+
+  .lesetext{
+    font-size: 1.5rem
+  }
+
+ .white{
+   color: white;
+ }
+ .frage{
+  border: 2px solid #212529;
+  border-radius: 8px;
+  padding: 5px;
+ }
+ a {
+   color: #212529;
+ }
+ /* a:link {
+  text-decoration: none;
+} */
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  /* text-decoration: none; */
+  color: #212529;
+}
+
+/* a:active {
+  text-decoration: none;
+} */
+ /*
+ #antwort7_1{
+  border: 2px solid #212529;
+  border-radius: 8px;
+  padding: 5px;
+ }
+ */
+ /*
+ .frageA{
+  border: 2px solid #212529;
+ }
+ */
